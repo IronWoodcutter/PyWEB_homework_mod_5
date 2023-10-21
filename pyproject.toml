@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pyweb-homework-mod-5"
+version = "0.1.0"
+description = ""
+authors = ["IronWoodcutter <a.v.vlasov@ukr.net>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiohttp = "^3.8.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
